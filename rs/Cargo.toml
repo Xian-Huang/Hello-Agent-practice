@@ -1,0 +1,14 @@
+[package]
+name = "rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rig-core = { version = "0.31.0", registry = "rsproxy-sparse" }
+serde = { version = "1.0.228", registry = "rsproxy-sparse" }
+serde_json = { version = "1.0.149", registry = "rsproxy-sparse" }
+thiserror = { version = "2.0.18", registry = "rsproxy-sparse" }
+tokio = { version = "1.49.0", registry = "rsproxy-sparse", features = [
+    "macros",
+    "rt-multi-thread",
+] }

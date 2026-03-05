@@ -1,0 +1,128 @@
+以下是转发的邮件：
+
+发件人: 杜月 <duyue378@berrygenomics.com>
+日期: 2026年3月5日 GMT+8 下午1:35:06
+收件人: leexyhb@126.com
+抄送: 高星 <gaoxing991@berrygenomics.com>, project-expert <project-expert@berrygenomics.com>
+主题: 【数据交付】26W-02318南开大学2T文库单上机项目ABFC20251876-120
+
+﻿
+老师，您好
+
+ 
+
+文库数据已产出，详见附件产出明细，辛苦前往火山云下载~
+
+数据下载链接时效是20天，本地数据保存时间是20天，到期后将自动删除，无法找回，还请您务必及时下载后校验MD5并做好数据备份。
+
+有效期至：2026-04-04 13:34:36
+
+URL：
+
+https://document-share.tos-cn-beijing.volces.com/v2/index.html?token=aHR0cHM6Ly9zcy1hYmZjMjAyNTE4NzYudG9zLWNuLWJlaWppbmcudm9sY2VzLmNvbT9YLVRvcy1BbGdvcml0aG09VE9TNC1ITUFDLVNIQTI1NiZYLVRvcy1DcmVkZW50aWFsPUFLTFRZelF6TXpZMFlUUm1ZV0ppTkRaa01qaGhNekV4TWpnMU1HSTFZVFpoWTJRJTJGMjAyNjAzMDUlMkZ0b3MtY24tYmVpamluZy52b2xjZXMuY29tJTJGdG9zJTJGcmVxdWVzdCZYLVRvcy1EYXRlPTIwMjYwMzA1VDA1MzQzNlomWC1Ub3MtRXhwaXJlcz0yNTkyMDAwJlgtVG9zLVBvbGljeT1leUpqYjI1a2FYUnBiMjV6SWpwYld5SnpkR0Z5ZEhNdGQybDBhQ0lzSWlSclpYa2lMQ0pCUWtaRE1qQXlOVEU0TnpZdlFVSkdRekl3TWpVeE9EYzJMVEV5TUM4aVhTeGJJbVZ4SWl3aUpHSjFZMnRsZENJc0luTnpMV0ZpWm1NeU1ESTFNVGczTmlKZFhYMCUzRCZYLVRvcy1TaWduYXR1cmU9NjZkM2IzYmJmNTBiMzkwMDcxOGYyY2FkMDEyYTA3ZDc5Y2Y0YzNkYmNhNmUxNTc2YjBkNzVkNTNhYmNiZjI1ZA==
+
+ 
+
+谢谢
+
+祝好！
+
+________________________________________
+
+________________________________________
+
+温馨提示：
+
+1.数据交付及保存时间：贝瑞原始数据及分析结果从第一次交付之日起保留时间为20天，到期会自动删除；
+
+原始数据非常重要，后期文章发表需要上传NCBI等数据库，如无此数据，文章发表会受到影响。因此请您收到数据后，及时下载，请务必保存好原始数据并及时核对MD5 ！！
+
+2.样品保存及返样：本批剩余样品如需返还，还请尽快告知，且会收取相应返样费用；若无告知RNA样品会在两个月后自动销毁，其他类型样品会转移至冷库！
+
+ 
+
+ 
+
+ 
+
+发件人: 贝瑞科技服务样品中心
+发送时间: 2026年2月27日 10:02
+收件人: leexyhb@126.com
+抄送: 高星 <gaoxing991@berrygenomics.com>; 郝薪云 <haoxinyun903@berrygenomics.com>; 杜月 <duyue378@berrygenomics.com>
+主题: 【贝瑞到样提醒】26W-02318南开大学2T文库单上机项目ABFC20251876
+
+ 
+
+
+尊敬的老师，您好！
+
+    送检单号：【26W-02318】今日已到样。
+
+
+
+序号
+
+样本类型
+
+样本名称
+
+文库类型
+
+数据量
+
+数据量单位
+
+1
+
+UOP26010010-DZ-14
+
+重测序/Denovo文库
+
+12
+
+G
+
+2
+
+UOP26010010-DZ-16
+
+重测序/Denovo文库
+
+12
+
+G
+
+3
+
+UOP26010010-DZ-5
+
+重测序/Denovo文库
+
+12
+
+G
+
+ 
+
+贝瑞科技服务样品中心
+北京贝瑞和康生物技术有限公司
+电话：010-53259188
+邮箱：BerryKF_sample@berrygenomics.com
+地址：北京市昌平区生命科学园生命园路4号院5号楼
+邮编：
+官网：www.berrygenomics.com
+
+
+本电邮所包含或其随附的信息可能属于保密信息，仅供指定收件方使用。如阁下并非本电邮指明的收件方，请将阁下拥有的本电邮及其所有备份（包括所有附件）删除并销毁，并将阁下误收本电邮一事通知发件方； 在此特提请阁下注意不得泄露、复制或散发本电邮，并不得倚赖本电邮而采取任何行动。The information contained in and accompanying this email may be confidential, and is intended solely for the use of the intended recipient(s). If you are not the intended recipient of this email, please delete and destroy all copies (including any attachments) in your possession, notify the sender that you have received this email in error, and you are hereby notified that any disclosure, duplication or dissemination of, or the taking of any action in reliance on this email is expressly prohibited.
+
+ 
+杜月
+项目主管 | 科技服务事业部
+北京贝瑞和康生物技术有限公司
+手机：   电话：010-53259188-1478
+邮箱：duyue378@berrygenomics.com
+地址：北京市昌平区生命科学园生命园路4号院5号楼
+邮编：102206
+官网：www.berrygenomics.com
+
+本电邮所包含或其随附的信息可能属于保密信息，仅供指定收件方使用。如阁下并非本电邮指明的收件方，请将阁下拥有的本电邮及其所有备份（包括所有附件）删除并销毁，并将阁下误收本电邮一事通知发件方； 在此特提请阁下注意不得泄露、复制或散发本电邮，并不得倚赖本电邮而采取任何行动。The information contained in and accompanying this email may be confidential, and is intended solely for the use of the intended recipient(s). If you are not the intended recipient of this email, please delete and destroy all copies (including any attachments) in your possession, notify the sender that you have received this email in error, and you are hereby notified that any disclosure, duplication or dissemination of, or the taking of any action in reliance on this email is expressly prohibited.

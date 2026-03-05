@@ -1,12 +1,16 @@
-from langchain_ollama import ChatOllama
 from langchain.agents import create_agent
+import os
+from langchain_deepseek import ChatDeepSeek
+
+# 设置API密钥（建议从环境变量读取）
+os.environ["DEEPSEEK_API_KEY"] = "sk-2d41872df36c45a19311a53ab32aa1fe"
+
 
 # 初始化聊天模型
-llm = ChatOllama(
-    model="qwen3:8b",
+llm = ChatDeepSeek(
+    model="deepseek-chat",  # 或其他DeepSeek模型
     temperature=0.7,
-    base_url="http://localhost:11434",
-    num_predict=256,
+    max_tokens=1024,
 )
 
 def get_weather(city: str) -> str:

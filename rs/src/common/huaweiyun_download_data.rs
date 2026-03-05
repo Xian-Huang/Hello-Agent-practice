@@ -8,7 +8,3 @@ struct DownloadArgs {
     url: String,
     output: String,
 }
-
-
-
-
